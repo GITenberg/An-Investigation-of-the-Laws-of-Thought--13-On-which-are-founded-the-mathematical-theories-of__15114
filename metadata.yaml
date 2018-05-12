@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5861
     wikipedia: http://en.wikipedia.org/wiki/George_Boole
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15114#An-Investigation-of-the-Laws-of-Thought--13-On-which-are-founded-the-mathematical-theories-of_
 gutenberg_bookshelf: Mathematics
 gutenberg_issued: '2005-02-16'
 gutenberg_type: Text
